@@ -39,7 +39,7 @@ ingress:
   hosts:
     - ${deployment_endpoint}
   tls: 
-   - secretName: mkarimi20-hello-world-tls
+   - secretName: enver0173-hello-world-tls
      hosts:
        - ${deployment_endpoint}
 
